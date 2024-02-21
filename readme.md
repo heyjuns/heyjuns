@@ -1,5 +1,4 @@
 # Juanda Leonardo
-
 ## Medior Frontend Engineer | SuperApp
 
 👋 Hello! I'm Juanda Leonardo, a passionate frontend engineer with a strong background in creating dynamic and responsive user interfaces. I specialize in web technologies and enjoy turning complex problems into simple, intuitive, and beautiful solutions.
