@@ -1,4 +1,4 @@
-# [Juanda Leonardo]
+# Juanda Leonardo
 
 ## Medior Frontend Engineer | SuperApp
 
