@@ -34,7 +34,7 @@
 
 ---
 
-### 🛠️ **Successfull Past Projects**  
+### 🛠️ **Successful Past Projects**  
 
 - 🎉 **[Hujan Hadiah SICEPAT](https://www.google.com/search?sca_esv=9717a7a1bb3ae0cc&q=hujan+hadiah+sicepat&tbm=isch)**  
   Designed and built an automated **random winner selection system** for **SICEPAT**, a leading Indonesian logistics company. This system ensured a **transparent and seamless giveaway process**, enhancing user engagement and brand loyalty.  
