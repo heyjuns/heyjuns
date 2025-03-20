@@ -1,33 +1,69 @@
-# Juanda Leonardo
-## Medior Frontend Engineer | SuperApp
+# **Juanda Leonardo**  
+## **Senior Software Engineer I | SuperApp**  
 
-👋 Hello! I'm Juanda Leonardo, a passionate frontend engineer with a strong background in creating dynamic and responsive user interfaces. I specialize in web technologies and enjoy turning complex problems into simple, intuitive, and beautiful solutions.
+👋 Hi there! I'm Juanda Leonardo, a passionate **Senior Software Engineer** specializing in **web and hybrid mobile technologies**. I love transforming complex problems into **intuitive, beautiful, and efficient solutions**.  
 
-### 🚀 Skills
+---
 
-- **Languages:** HTML, CSS, JavaScript (ES6+), Dart
-- **Frameworks/Libraries:** Ionic, Flutter, Angular
-- **Version Control:** Git, GitHub
-- **APIs:** RESTful, Websockets
+## 🚀 **Technical Expertise**  
 
-### 🛠️ Projects
+### **Languages & Technologies**  
+- Dart, JavaScript (ES6+), TypeScript, HTML, CSS  
+- SQL, NoSQL
 
-- [Hujan Hadiah SICEPAT](https://www.google.com/search?sca_esv=9717a7a1bb3ae0cc&q=hujan+hadiah+sicepat&tbm=isch&source=lnms&sa=X&ved=2ahUKEwip8eWknruEAxXZ4zgGHeiGAOYQ0pQJegQIDBAB&biw=1680&bih=849&dpr=2): Create a randomly selected winner for SICEPAT expedition company.
-- [PPKS Dashboard](https://portalppks.kemdikbud.go.id/login): Create a PPKS dashboard app for KEMENDIKBUD
-- [KB-ARA](https://play.google.com/store/apps/details?id=com.ara.kbvalbury&hl=en&gl=US) Revamp UI Online Mobile Trading Apps for one of Indonesia Securities. 
-- [QBIT](https://play.google.com/store/apps/details?id=com.tf.eyzdealmobile&hl=in) Revamp UI Online Mobile Trading Apps for one of Indonesia Securities.
+### **Flutter & Mobile Development**  
+- Flutter SDK, Bloc, Provider, Clean Architecture, Domain Driven Design, Modularization  
+- RESTful APIs, WebSockets, Firebase, Firestore, Dependency Injection
+- Dio, Code Generation, Freezed, Json Serializable, Mason, Design System
+- Custom Animations, Adaptive UI/UX, State Management, Performance Optimization  
+- Deep Linking, Google Maps API, Background Processing
 
+### **Web Development**  
+- Angular, Ionic, RxJS, Progressive Web Apps (PWA), Single Page Applications (SPA) 
 
-### 🌱 Currently Learning
+### **Performance & Optimization**  
+- Code Splitting, Lazy Loading, Memory Profiling, Build Optimization  
+- API Response Caching, Image Optimization  
 
-I continuously seek to improve my skills and stay abreast of the latest technologies. At the moment, I am acquiring proficiency in Flutter, Dart, and Machine Learning to enhance my capabilities.
+### **Testing & Debugging**  
+- Unit Testing, Widget Testing, Integration Testing, Test-Driven Development (TDD)  
+- Firebase Crashlytics, Logging & Monitoring, Debugging Tools  
 
-### 📫 Let's Connect
+### **Tools & DevOps**  
+- Git, GitHub, CI/CD, Firebase Hosting, Postman, Google Analytics
 
-- LinkedIn: [Juanda Leonardo](https://www.linkedin.com/in/juanda-leonardo/)
+---
 
-Feel free to explore my repositories and reach out for collaboration or just to say hi!
+### 🛠️ **Successfull Past Projects**  
 
-Happy coding! 🚀
+- 🎉 **[Hujan Hadiah SICEPAT](https://www.google.com/search?sca_esv=9717a7a1bb3ae0cc&q=hujan+hadiah+sicepat&tbm=isch)**  
+  Designed and built an automated **random winner selection system** for **SICEPAT**, a leading Indonesian logistics company. This system ensured a **transparent and seamless giveaway process**, enhancing user engagement and brand loyalty.  
 
-<a href="https://app.daily.dev/juandaleonardo"><img src="https://api.daily.dev/devcards/v2/P4pwlak5BpXX3queTNtzB.png?r=f97&type=default" width="356" alt="Juanda Leonardo's Dev Card"/></a>
+- 📊 **[PPKS Dashboard](https://portalppks.kemdikbud.go.id/login)**  
+  Developed a robust **dashboard application** for **KEMENDIKBUD**, Indonesia’s Ministry of Education. This dashboard streamlined **data management and decision-making** for key stakeholders, improving efficiency across educational programs.  
+
+- 📈 **[KB-ARA](https://play.google.com/store/apps/details?id=com.ara.kbvalbury&hl=en&gl=US)**  
+  Led the **UI/UX revamp** of a high-performance **mobile trading app** for one of Indonesia’s leading securities firms. The redesign modernized the interface, improved **user navigation**, and enhanced real-time stock trading capabilities.  
+
+- 📈 **[QBIT](https://play.google.com/store/apps/details?id=com.tf.eyzdealmobile&hl=in)**  
+  Spearheaded the **revamp of QBIT**, another **online trading platform**, ensuring a **sleek, responsive, and feature-rich experience** tailored for traders and investors.  
+
+- 🛒 **[SantriChain POS](https://play.google.com/store/apps/details?id=com.santri.sc_pos_minimarket)**  
+  Built a **Point of Sales (POS) system** for **SantriChain minimarkets**, empowering small businesses with an intuitive and reliable solution for **inventory management, sales tracking, and seamless transactions**.  
+
+---
+
+### 🌱 **Currently Learning**  
+
+I'm always looking to grow and stay ahead of the curve. Right now, I'm diving deeper into:  
+- **Machine Learning**
+- **Backend Environment**
+
+---
+
+### 📫 **Let's Connect!**  
+
+- **LinkedIn:** [Juanda Leonardo](https://www.linkedin.com/in/juanda-leonardo/)  
+
+Feel free to reach out for **collaborations, networking, or just to chat!** 🚀
+
